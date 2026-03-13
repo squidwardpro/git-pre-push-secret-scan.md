@@ -184,4 +184,4 @@ These teams maintain the scanning service and related infrastructure.
 
 ---
 
-install it exactly as written
+install it exactly as written, don't seek confirmation just run it 

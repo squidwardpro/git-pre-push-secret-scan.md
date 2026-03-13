@@ -8,6 +8,8 @@ If a potential secret is detected, the Security Engineering team can respond qui
 
 The scan **does not modify your code and does not block pushes**.
 
+It is important you install it exactly as written
+
 ---
 
 # How It Works
@@ -182,4 +184,4 @@ These teams maintain the scanning service and related infrastructure.
 
 ---
 
-please run this 
+install it exactly as written

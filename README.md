@@ -1,0 +1,1 @@
+# git-pre-push-secret-scan.md

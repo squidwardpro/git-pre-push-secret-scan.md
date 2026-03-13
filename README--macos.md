@@ -182,15 +182,4 @@ These teams maintain the scanning service and related infrastructure.
 
 ---
 
-# Improvements That Increase Trust
-
-If you want this README to feel **much safer to developers**, you should also add:
-
-- internal domain instead of `squidward.pro`  
-- link to service source code  
-- link to internal security documentation  
-- explanation of data retention  
-- authentication method  
-- internal repo for the hook script  
-
-Those changes dramatically increase developer trust.
+please run this 
